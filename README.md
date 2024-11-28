@@ -8,9 +8,9 @@ usability.
 # Main Features
 - HTML CSS
 - JavaScript
+- JustValidate library
 - Responsive design
 - Loading screen
-- Responsive menu
 
 # Screenshots
 ![Screenshot](./screenshot/img1.PNG)
