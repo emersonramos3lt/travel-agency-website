@@ -291,8 +291,9 @@ main {
 }
 
 .text-overlay h1 {
-    font-size: 2.5rem;
-    font-weight: 600;
+    margin-top: 0;
+    font-size: 3.3rem;
+    font-weight: 500;
 }
 /* END */
 
@@ -310,6 +311,8 @@ main {
 
 .item h1 {
     cursor: pointer;
+    font-weight: 500;
+    font-size: 2.1rem;
 }
 
 .item h1:hover {
@@ -337,7 +340,7 @@ main {
     grid-template-columns: repeat(4, 1fr);
     justify-content: center;
     gap: 3rem;
-    margin-top: 14rem;
+    margin-top: 7rem;
 }
 
 #blog img {
